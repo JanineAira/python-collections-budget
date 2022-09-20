@@ -46,4 +46,4 @@ class Expenses():
         #     if x.category == 'Phone' or x.category == 'Auto and Gas' or x.category == 'Classes' or x.category == 'Utilise' or x.category == 'Mortgage':
         #         food_expenses = if category == 'Groceries' or category == 'Eating Out':
         # }
-       
+       pass
